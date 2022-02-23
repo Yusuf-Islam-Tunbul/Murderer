@@ -1,0 +1,3 @@
+Kurgu değiştirildi, artık her silah çeşidi için bir class var.
+İşlevsellik adına eklemeler ve değişiklikler yapıldı.
+Hala yapılması gerekenler var, ileride yapılacak.
